@@ -1,1 +1,16 @@
-site_name: My Docs
+site_name: Orquestra de cordas de São josé  de Mipibu
+site_url: http://oquetrasjm.000webhostapp.com/
+site_author: Emanoel Eike 
+site_description: >-
+  Site para orquestra de cordas de São José de Mipibu 
+
+repo_url: https://gitlab.devops.ifrn.edu.br/eike.f/site-mange/
+edit_uri: "edit/master"
+
+# Copyright
+copyright: Copyright &copy; 2020 Emanoel Eike
+
+# Configuration
+theme:
+  name: material
+  language: pt
